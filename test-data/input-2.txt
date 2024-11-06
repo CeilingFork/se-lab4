@@ -1,0 +1,9 @@
+# Követelmény: Felváltva lő
+# Előfeltételek: az első tárban van egy torpedó, a másodikban nincs
+# Lépések: Egymás után lövünk egyet-egyet, háromszor
+# Kimenet: csak az első lövés sikeres
+
+gt4500,1,0,1,1
+torpedo,single
+torpedo,single
+torpedo,single

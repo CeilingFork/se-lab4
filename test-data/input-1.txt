@@ -1,0 +1,8 @@
+# Követelmény:  lehet lőni mindkettőből
+# Előfeltételek: van egy torpedó mindkét helyen
+# Lépések: Egymás után lövünk egyet-egyet
+# Kimenet: Mindkét lövés sikeres 
+
+gt4500,1,0,1,0
+torpedo,single
+torpedo,single
