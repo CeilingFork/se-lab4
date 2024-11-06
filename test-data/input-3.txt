@@ -1,0 +1,7 @@
+# Követelmény: A valószínűség működik
+# Előfeltételek: Mindkét tárban 1 torpedó, az első hiba-esélye 0% a másodiké 100%
+# Lépések: Egymás után lövünk egyet-egyet, kétszer
+# Kimenet: csak az első lövés sikeres
+gt4500,1,0,1,1
+torpedo,single
+torpedo,single

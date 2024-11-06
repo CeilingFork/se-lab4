@@ -1,0 +1,4 @@
+SUCCESS #Létrejött a hajó
+SUCCESS #Mindegyikből sikeresen lő egyet
+SUCCESS #Itt már csak az egyikben van, de sikeres
+FAIL    #Mát mindkettő üres => sikertelen

@@ -1,0 +1,8 @@
+# Követelmény: ALL működik
+# Előfeltételek: az első tárban van egy torpedó, a másodikban kettő
+# Lépések: mindegyikkel lövünk háromszor
+# Kimenet: csak az első kettő sikeres
+gt4500,1,0,2,0
+torpedo,ALL
+torpedo,ALL
+torpedo,ALL
